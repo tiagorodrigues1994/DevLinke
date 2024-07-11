@@ -1,0 +1,10 @@
+/** @type {import('tailwindcss').Config} */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    min-height: 100vh;
+    background-image: linear-gradient(to right, #232630, #020507);
+ 
+}
